@@ -11,7 +11,7 @@ I build terminal tools, small backends and practical automations.
 
 **PyDF Tool**
 CLI + TUI for OCR and compression of scanned PDFs on macOS.
-→ v1.0.5
+→ v1.0.6
 
 ---
 
