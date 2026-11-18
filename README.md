@@ -16,7 +16,7 @@ Not an expert: a curious student with more ideas than finished things, working o
 
 **[PyDF Tool](https://github.com/progrisriport/pydf_tool)** · CLI + TUI for OCR and compression of scanned PDFs on macOS. *v1.0.6*
 
-**[Cicerone](https://github.com/progrisriport/Cicerone-demo)** · *in development* · Conversational AI agent for AI Readiness assessments of European SMEs.
+**[Cicerone](https://github.com/progrisriport/Cicerone-demo)** · *prototype* · Conversational AI agent for AI Readiness assessments of European SMEs.
 
 **[presidio](https://github.com/progrisriport/presidio)** · *in development* · Management software for civil protection volunteer groups.
 
@@ -26,7 +26,7 @@ Not an expert: a curious student with more ideas than finished things, working o
 
 **[TheKnife](https://github.com/progrisriport/TheKnife-B)** · Client-server restaurant search and reviews. Java, PostgreSQL, JavaFX.
 
-**[producer-consumer-java](https://github.com/progrisriport/producer-consumer-java)** · Didactic simulator of the producer-consumer problem.
+**[producer-consumer-java](https://github.com/progrisriport/producer-consumer-java)** · *in development* · Didactic simulator of the producer-consumer problem.
 
 ---
 
