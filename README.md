@@ -20,6 +20,8 @@ Not an expert: a curious student with more ideas than finished things, working o
 
 **[presidio](https://github.com/progrisriport/presidio)** · *in development* · Management software for civil protection volunteer groups.
 
+**[Watari Boot](https://github.com/ZonatedCord/WatariBoot)** · *co-author* · Research project to boot Windows 11 ARM64 natively on Apple Silicon through a minimal EL2 layer. Not working on real hardware yet.
+
 ## Built for university
 
 **[TheKnife](https://github.com/progrisriport/TheKnife-B)** · Client-server restaurant search and reviews. Java, PostgreSQL, JavaFX.
