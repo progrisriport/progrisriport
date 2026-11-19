@@ -1,8 +1,8 @@
 # progris riport
 
 > *progris*, after Charlie Gordon's progress reports in *Flowers for Algernon*.
-> I write down what I build and why, starting before I'm ready.
-> Mistakes and setbacks will come. I'll report those too.
+> My own progress reports: what I learn, what I try, what I get wrong, what I doubt.
+> About code, and about everything else.
 
 I'm **Flavio Angelo Ciani**, a Computer Science student at Università degli Studi dell'Insubria.
 Not an expert: a curious student with more ideas than finished things, working on that.
