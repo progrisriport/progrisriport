@@ -26,7 +26,7 @@ Not an expert: a curious student with more ideas than finished things, working o
 
 **[TheKnife](https://github.com/progrisriport/TheKnife-B)** · Client-server restaurant search and reviews. Java, PostgreSQL, JavaFX.
 
-**[producer-consumer-java](https://github.com/progrisriport/producer-consumer-java)** · *in development* · Didactic simulator of the producer-consumer problem.
+**[producer-consumer-java](https://github.com/progrisriport/producer-consumer-java)** · Didactic simulator of the producer-consumer problem.
 
 ---
 
