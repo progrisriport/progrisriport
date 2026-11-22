@@ -14,7 +14,7 @@ Not an expert: a curious student with more ideas than finished things, working o
 
 ## Building
 
-**[PyDF Tool](https://github.com/progrisriport/pydf_tool)** · CLI + TUI for OCR and compression of scanned PDFs on macOS. *v1.0.6*
+**[PyDF Tool](https://github.com/progrisriport/pydf_tool)** · *in development v2* · CLI + TUI for OCR and compression of scanned PDFs on macOS. *v1.0.6*
 
 **[Cicerone](https://github.com/progrisriport/Cicerone-demo)** · *prototype* · Conversational AI agent for AI Readiness assessments of European SMEs.
 
